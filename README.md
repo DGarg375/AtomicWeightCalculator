@@ -1,0 +1,1 @@
+C++ command-line program to calculate atomic weight of compound enetered by the user
